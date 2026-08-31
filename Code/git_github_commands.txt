@@ -1,0 +1,29 @@
+Day-1 Git/GitHub practice
+
+Open terminal inside your project folder:
+
+git --version
+
+git init
+
+git status
+
+git add .
+
+git commit -m "Complete Day 1 Python practice"
+
+# Create an empty repository on GitHub, then copy its HTTPS URL.
+
+git remote add origin YOUR_GITHUB_REPOSITORY_URL
+
+git branch -M main
+
+git push -u origin main
+
+Useful commands:
+
+git status
+git log --oneline
+git add .
+git commit -m "Update Day 1 exercises"
+git push
