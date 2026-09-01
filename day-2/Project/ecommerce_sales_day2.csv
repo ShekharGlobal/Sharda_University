@@ -1,0 +1,52 @@
+Order_ID	Date	Product	Category	City	Quantity	Price	Customer
+1001	8/1/2026	Laptop	Electronics	Delhi	1	55000	Amit
+1002	8/1/2026	Mouse	Electronics	Mumbai	2	800	Ravi
+1003	8/2/2026	Office Chair	Furniture	Delhi	1	4500	Neha
+1004	8/2/2026	Laptop	Electronics	Pune	2	55000	Raj
+1005	8/3/2026	Keyboard	Electronics	Delhi	3	1500	Amit
+1006	8/3/2026	Desk	Furniture	Mumbai	1	7000	Priya
+1007	8/4/2026	Headphones	Electronics	Bangalore	2	2500	Karan
+1008	8/4/2026	Notebook	Stationery		5	120	Sneha
+1009	8/5/2026	Laptop	Electronics	Mumbai	1	60000	Vikram
+1010	8/5/2026	Pen Set	Stationery	Pune	4	200	Anita
+1011	8/6/2026	Office Chair	Furniture	Bangalore	2	4500	Rahul
+1012	8/6/2026	Monitor	Electronics	Delhi	2	18000	Amit
+1013	8/7/2026	Mouse	Electronics	Pune	3	800	Ravi
+1014	8/7/2026	Desk	Furniture	Delhi	1	7000	Neha
+1015	8/8/2026	Keyboard	Electronics	Mumbai	2		Raj
+1016	8/8/2026	Notebook	Stationery	Bangalore	10	120	Priya
+1017	8/9/2026	Monitor	Electronics	Pune	1	18000	Karan
+1018	8/9/2026	Headphones	Electronics	Delhi	3	2500	Sneha
+1019	8/10/2026	Office Chair	Furniture	Mumbai	1	4500	Vikram
+1020	8/10/2026	Laptop	Electronics	Bangalore	1	55000	Anita
+1021	8/11/2026	Pen Set	Stationery	Delhi	8	200	Rahul
+1022	8/11/2026	Desk	Furniture	Pune	2	7000	Amit
+1023	8/12/2026	Mouse	Electronics	Bangalore	4	800	Neha
+1024	8/12/2026	Monitor	Electronics	Mumbai	2	18000	Raj
+1025	8/13/2026	Keyboard	Electronics	Delhi	5	1500	Priya
+1026	8/13/2026	Notebook	Stationery	Pune	12	120	Karan
+1027	8/14/2026	Headphones	Electronics	Mumbai	1	2500	Sneha
+1028	8/14/2026	Office Chair	Furniture	Delhi	3	4500	Vikram
+1029	8/15/2026	Laptop	Electronics	Pune	1	55000	Anita
+1030	8/15/2026	Pen Set	Stationery	Bangalore	6	200	Rahul
+1031	8/16/2026	Monitor	Electronics	Delhi	1	18000	Amit
+1032	8/16/2026	Desk	Furniture	Mumbai	1	7000	Neha
+1033	8/17/2026	Mouse	Electronics	Pune	2	800	Raj
+1034	8/17/2026	Keyboard	Electronics	Bangalore	3	1500	Priya
+1035	8/18/2026	Notebook	Stationery	Delhi	20	120	Karan
+1036	8/18/2026	Headphones	Electronics	Pune	2	2500	Sneha
+1037	8/19/2026	Office Chair	Furniture	Bangalore	1	4500	Vikram
+1038	8/19/2026	Laptop	Electronics	Mumbai	1	55000	Anita
+1039	8/20/2026	Desk	Furniture	Delhi	2	7000	Rahul
+1040	8/20/2026	Monitor	Electronics	Pune	1	18000	Amit
+1041	8/21/2026	Mouse	Electronics	Delhi	5	800	Neha
+1042	8/21/2026	Keyboard	Electronics	Mumbai	4	1500	Raj
+1043	8/22/2026	Notebook	Stationery	Bangalore	15	120	Priya
+1044	8/22/2026	Headphones	Electronics	Delhi	2	2500	Karan
+1045	8/23/2026	Office Chair	Furniture	Pune	2	4500	Sneha
+1046	8/23/2026	Laptop	Electronics	Delhi	1	55000	Vikram
+1047	8/24/2026	Pen Set	Stationery	Mumbai	10	200	Anita
+1048	8/24/2026	Desk	Furniture	Bangalore	1	7000	Rahul
+1049	8/25/2026	Monitor	Electronics	Delhi	2	18000	Amit
+1050	8/25/2026	Mouse	Electronics	Pune	6	800	Neha
+1020	8/10/2026	Laptop	Electronics	Bangalore	1	55000	Anita
