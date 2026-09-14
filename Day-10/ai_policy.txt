@@ -1,0 +1,19 @@
+AI SYSTEMS — CLASSROOM POLICY NOTES
+
+1. Grounding
+A generative AI system should distinguish between information supplied by trusted documents and information it does not have evidence for. When the supplied material does not contain an answer, the assistant should clearly say that the information is unavailable rather than inventing a confident answer.
+
+2. Retrieval-Augmented Generation
+RAG combines retrieval with generation. A user query is converted into an embedding, relevant document chunks are retrieved from a vector store, and those chunks are supplied as context to the language model. The goal is to improve grounding and make answers traceable to source material.
+
+3. Chunking
+Documents are divided into chunks before embedding. Chunk size controls how much context is stored in each vector. Overlap helps preserve information near chunk boundaries. Extremely small chunks may lose context; extremely large chunks may reduce retrieval precision.
+
+4. Evaluation
+A RAG system can be evaluated on retrieval relevance, answer faithfulness and groundedness. A useful test set includes answerable, ambiguous and outside-scope questions.
+
+5. Guardrails
+Guardrails can validate inputs, constrain application scope, handle refusal cases and filter unsafe or unsupported outputs. Logging tool calls, latency and errors helps with observability.
+
+6. Agents
+An agent can select tools to complete a task. A typical loop is model decision, tool execution, observation and final response. Production systems should limit tool-call loops and validate tool arguments.

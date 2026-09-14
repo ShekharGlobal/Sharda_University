@@ -1,0 +1,7 @@
+STUDENT HANDBOOK — GEN AI LAB
+
+Lab submission requires a working application, a README, requirements.txt and evidence of testing. Students should test at least three questions, including one outside the uploaded document's scope.
+
+For the flagship RAG deliverable, source information should be visible to the user. Students should document one retrieval failure, explain the likely cause, and describe the change made to improve the result.
+
+Students should never place API keys or passwords directly in source code or upload them to public GitHub repositories. Use environment variables or a local secrets mechanism.
